@@ -2,7 +2,8 @@ Project-Euler
 =============
 
 I plan on using this repository to solve problems at [Project Euler](http://projecteuler.net/problems). I will
-be posting details about how I solved each problem on the wiki for this repository. Many of the problems at
+be posting details about how I solved each problem on the [wiki](https://github.com/ajrod/Project-Euler/wiki) 
+for this repository. Many of the problems at
 Project Euler are very difficult and are set up in such a way that brute forcing the answer will not run
 in reasonable time. 
 
