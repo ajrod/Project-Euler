@@ -9,7 +9,7 @@ in reasonable time.
 
 From the websites FAQ I gathered that every problem has been designed so that a solution
 exists that runs in less than a minute. I will be using this restriction in considering if I have "solved"
-a problem but beyond that I will not be optimizing.
+a problem..
 
 What is Project Euler?
 ------
@@ -21,3 +21,4 @@ From the home page of the website,
 > the use of a computer and programming skills will be required to solve most problems.
 
 
+#[Go To Wiki](https://github.com/ajrod/Project-Euler/wiki)
