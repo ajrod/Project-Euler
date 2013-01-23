@@ -9,7 +9,7 @@ in reasonable time.
 
 From the websites FAQ I gathered that every problem has been designed so that a solution
 exists that runs in less than a minute. I will be using this restriction in considering if I have "solved"
-a problem but beyond that I will not be optimizing.
+a problem..
 
 What is Project Euler?
 ------
