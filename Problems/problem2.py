@@ -12,14 +12,18 @@ four million, find the sum of the even-valued terms.
 
 if __name__ == "__main__":
     
-    uBound = 4 * 10**6 #upper bound
+    uBound = 4 * 10**6 #upper bound as designated by the problem
     
-    f1 = 1
-    f2 = 2
-    accum = 0
-    while (f2 < uBound):
-        if (f2 % 2 == 0):
-            accum += f2
+    #base cases for the Fibonnaci sequence
+    fib1 = 1 
+    fib2 = 2
+    accum = 0 #accumulator for the sum
+    while (fib2 < uBound):
         
-        f1, f2 = f2, f1 + f2
-    print accum
+        #add the fibonacci number if it is even
+        if (fib2 % 2 == 0):
+            accum += fib2
+        
+        #move the fibonacci numbers forward in the series
+        fib1, fib2 = fib2, fib1 + fib2
+    print "Total sum", accum
