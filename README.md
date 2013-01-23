@@ -22,8 +22,3 @@ From the home page of the website,
 
 
 #[Go To Wiki](https://github.com/ajrod/Project-Euler/wiki)
-
- ```javascript
- var s = "JavaScript syntax highlighting";
- alert(s);
- ```
