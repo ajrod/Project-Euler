@@ -21,3 +21,6 @@ From the home page of the website,
 > the use of a computer and programming skills will be required to solve most problems.
 
 
+#[Go To Wiki](http://projecteuler.net/problems)
+
+
