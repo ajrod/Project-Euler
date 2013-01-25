@@ -23,4 +23,4 @@ From the home page of the website,
 > the use of a computer and programming skills will be required to solve most problems.
 
 
-#[Go To Wiki](https://github.com/ajrod/Project-Euler/wiki)
+#[Go To Wiki Solutions](https://github.com/ajrod/Project-Euler/wiki)
