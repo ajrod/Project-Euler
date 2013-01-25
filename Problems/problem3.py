@@ -31,7 +31,7 @@ class Primes(object):
     def set_next(self):
         
         #Two is the only even prime. This must be hard coded
-        #since i increment by two below assuming that previous prime
+        #since i increments by two below assuming that previous prime
         #was odd.
         if self.prime == 2: 
             self.prime = 3
