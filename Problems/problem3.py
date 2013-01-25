@@ -8,20 +8,24 @@ What is the largest prime factor of the number 600851475143 ?
 '''
 ###############################################################################
 
+
 '''An iterator for a series of primes.'''
 class Prime(object):
     
     def __init__(self):
         self.prime = 2
         self.primes = [2,3] #a list of all primes created by the iterator
+        
     '''Return true iff there is more in the series.'''
     def has_next(self):
             return true #infinite number of primes
+        
     '''Get the prime in the series and set up the next.'''
     def next(self):
         old_prime = self.prime
         self.set_next()
         return old_prime
+    
     '''Set the next prime in the series.'''
     def set_next(self):
         
@@ -51,6 +55,8 @@ class Prime(object):
                     ct+=1
             self.primes.append(new_prime)
             self.prime = new_prime
+            
+            
 if __name__ == "__main__":
     
     prime_iterator = Prime()
