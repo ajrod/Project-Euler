@@ -10,7 +10,7 @@ What is the largest prime factor of the number 600851475143 ?
 
 
 '''An iterator for a series of primes.'''
-class Prime(object):
+class Primes(object):
     
     def __init__(self):
         self.prime = 2
@@ -59,7 +59,7 @@ class Prime(object):
             
 if __name__ == "__main__":
     
-    prime_iterator = Prime()
+    prime_iterator = Primes()
     number = 600851475143 #the number from the problem
     prime = prime_iterator.next()
     largest_factor = prime
