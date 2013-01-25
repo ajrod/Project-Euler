@@ -9,7 +9,9 @@ in reasonable time.
 
 From the websites FAQ I gathered that every problem has been designed so that a solution
 exists that runs in less than a minute. I will be using this restriction in considering if I have "solved"
-a problem..
+a problem.
+
+My first goal is solving 100 of the problems. I will be doing a little bit each week until I reach this.
 
 What is Project Euler?
 ------
