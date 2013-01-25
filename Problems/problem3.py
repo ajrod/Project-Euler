@@ -14,7 +14,8 @@ class Primes(object):
     
     def __init__(self):
         self.prime = 2
-        self.primes = [2,3] #a list of all primes created by the iterator
+        self.primes = [2,3] #a list of all primes 
+                            #created by the iterator so far
         
     '''Return true iff there is more in the series.'''
     def has_next(self):
