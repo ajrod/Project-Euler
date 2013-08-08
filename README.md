@@ -11,7 +11,7 @@ From the websites FAQ I gathered that every problem has been designed so that a 
 exists that runs in less than a minute. I will be using this restriction in considering if I have "solved"
 a problem.
 
-My first goal is solving 100 of these problems. I will be doing a little bit each week until I reach this.
+My first goal is solving 100 of these problems. I will be doing a little bit every now and then until I reach this.
 
 What is Project Euler?
 ------
